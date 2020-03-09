@@ -1,0 +1,6 @@
+name: FFA
+api: 1.12.0
+main: ffa\Main
+author: Jullius1392
+version: 1.0.0
+description: Plugin Simple de FFA para steadfast
