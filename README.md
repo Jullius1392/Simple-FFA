@@ -3,7 +3,7 @@ Plugin de FFA simple
 
 # Modo de uso:
 
-# /ffa register <mapa>
+# /ffa register (mapa)
   comando para guardar el mapa el cual será usado para ffa
   requiere permiso 
 # /ffa join
