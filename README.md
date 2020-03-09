@@ -1,5 +1,5 @@
 # Simple-FFA
-Plugin de FFA simple
+Plugin de FFA simple para steadfast
 
 # Modo de uso:
 
